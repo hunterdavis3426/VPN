@@ -1,0 +1,9 @@
+Required Applications/Services
+•GNS3
+•Python
+•Cisco ASA
+•Cisco Firewalls
+
+Required Python Modules
+scapy
+time
